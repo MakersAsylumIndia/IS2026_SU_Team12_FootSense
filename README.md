@@ -1,7 +1,9 @@
 # IS2026 Spring - NAME OF PROJECT
 
-Describe the project.
-Describe what are the contents of each folder - CODE, CAD, Electronics etc
+FootSense is a smart insole system that continuously monitors how weight is distributed across the foot and how each step is taken. Pressure sensors (FSRs) embedded in a gel insole, paired with a motion sensor (IMU) in a compact module, capture real-time gait and balance data. This data is sent wirelessly to a mobile device, where it's analyzed and turned into clear, actionable insights — like incorrect steps per 1000, pressure imbalance, and impact patterns — helping users improve posture, prevent injury, and refine their movement over time.
+CAD - No files
+Code - Two Versions for the two versions of the project - velostat and flex/piezo sensors
+Electronics - Circuit Designs and Pinouts for both versions
 
 
 ## License
