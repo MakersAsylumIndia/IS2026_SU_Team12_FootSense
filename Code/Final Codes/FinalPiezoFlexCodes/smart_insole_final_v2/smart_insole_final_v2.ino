@@ -29,12 +29,12 @@
                     [33k resistor] -- GND
 
   Piezo 1 (damping resistor in parallel):
-    Piezo1(+) --+-- GPIO4
+    Piezo1(+) --+-- GPIO25
                  |
              [1M resistor] -- GND (other piezo lead also to GND)
 
   Piezo 2 (damping resistor in parallel):
-    Piezo2(+) --+-- GPIO33
+    Piezo2(+) --+-- GPIO26
                  |
              [1M resistor] -- GND (other piezo lead also to GND)
 
@@ -93,8 +93,8 @@ const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 #define FLEX2_PIN    35   // Rear arch
 #define FLEX3_PIN    32   // Anterior arch
 
-#define PIEZO1_PIN   4
-#define PIEZO2_PIN   33
+#define PIEZO1_PIN   25
+#define PIEZO2_PIN   26
 
 // ---------------------- OBJECTS ----------------------
 MPU6050 mpu(Wire);
