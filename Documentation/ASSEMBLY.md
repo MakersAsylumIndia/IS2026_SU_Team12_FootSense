@@ -260,15 +260,3 @@ Step detection uses a peak-detection algorithm with a high threshold of 1.35g an
 
 ---
 
-## File Reference
-
-| File | Location | Purpose |
-|---|---|---|
-| `smart_insole_final.ino` | `/firmware` | Final combined firmware — WiFi + dashboard + all sensors |
-| `mpu6050_esp32.ino` | `/test-sketches` | Standalone MPU6050 test |
-| `flex_sensor_esp32.ino` | `/test-sketches` | Standalone flex sensor test (single sensor) |
-| `piezo_esp32.ino` | `/test-sketches` | Standalone piezo test (single disc) |
-| `breadboard_wifi_test.ino` | `/test-sketches` | Combined 1-flex + 1-piezo + MPU6050 with WiFi and dashboard |
-| `insole_dashboard.html` | `/dashboard` | Live web dashboard — open in browser, no server needed |
-| `WIRING.md` | `/` | Complete pin-by-pin connection reference |
-| `ASSEMBLY.md` | `/` | This file |
