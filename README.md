@@ -26,7 +26,15 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 ## 📬 Contact/Team
 
 > _List team members and contact emails or GitHub profiles._
+
+[Arnav Gupta](https://github.com/arnav0123-blt)
+
+[Kiyansh Mahajan](https://github.com/kiyanshh-123)
+
+[Kinjal Mehta](https://github.com/kinjalmehta24)
+
+[Maker's Asylum](https://github.com/makersasylum)
+
 [@anool](https://github.com/Anool)
-[@arnav](https://github.com/arnav0123-blt)
 >
 > ---
