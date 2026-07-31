@@ -4,7 +4,7 @@ FootSense Circuit, breadboard version
 
 https://app.cirkitdesigner.com/project/b28bd193-1c41-4074-a6af-9dc82b0b8f14
 
-<img src="IS2026_SU_Team12_FootSense_piezoflex_v1.png" alt="FootSense Circuit, breadboard">
+<img src="IS2026_SU_Team12_FootSense_piezoflex_v2.png" alt="FootSense Circuit, breadboard">
 
 
 
@@ -12,7 +12,7 @@ FootSense Circuit, simplified version
 
 https://app.cirkitdesigner.com/project/80fe3b59-e1d4-4a58-a3ab-f5aec5795ba8
 
-<img src="IS2026_SU_Team12_FootSense_piezoflex_v2.png" alt="FootSense Circuit, simple">
+<img src="IS2026_SU_Team12_FootSense_piezoflex_v1.png" alt="FootSense Circuit, simple">
 
 
 
